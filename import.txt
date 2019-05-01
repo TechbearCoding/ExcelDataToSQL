@@ -1,0 +1,21 @@
+table=Sample	
+ID=number	SampleField1=varchar2
+1	TextSample
+2	TextSample
+3	TextSample
+4	TextSample
+5	TextSample
+
+table=Sample2	
+ID=number	SampleField1=varchar2
+1	TextSample
+2	TextSample
+3	TextSample
+4	TextSample
+5	TextSample
+6	TextSample
+7	TextSample
+8	TextSample
+9	TextSample
+10	TextSample
+
