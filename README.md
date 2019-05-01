@@ -1,6 +1,8 @@
 # ExcelDataToSQL
 
 If you need to copy data from excel and create table this little python script will help you.
+To run this you need python 3
+Originally created on python 3.7.3
 Just copy your excel data into "import.txt" and run the script.
 It will generate the create table statement and insert into.
 
