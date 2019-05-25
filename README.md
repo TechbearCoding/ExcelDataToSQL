@@ -19,13 +19,13 @@ Afterwards you need to set type for your id and other fields.
 Then you put the values in. Values and fields need to be separeted using tab.
 
 table=Sample	
-
 ID=number	SampleField1=varchar2
 1	TextSample
 2	TextSample
 3	TextSample
 4	TextSample
 5	TextSample
+
 
 As for length- for now I set length(10) for number and length(200) for varchar2. For other types length is 50.
 You can modify it in parseData.py in function generateCreate(name, fieldNames)
