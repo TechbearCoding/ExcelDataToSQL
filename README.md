@@ -18,7 +18,7 @@ Afterwards you need to set type for your id and other fields.
 
 Then you put the values in. Values and fields need to be separeted using tab.
 
-table=Sample	
+table=Sample/n
 ID=number	SampleField1=varchar2
 1	TextSample
 2	TextSample
